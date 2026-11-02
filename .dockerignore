@@ -1,0 +1,12 @@
+.git
+.agents
+.agent-workspace
+.agent-review
+.evals
+.reviews
+.opencode
+node_modules
+coverage
+*.log
+.env
+.env.*
